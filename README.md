@@ -19,11 +19,11 @@ This is a description of my all time favorite movies that I have seen, while als
 - 
 # 8. Avengers
 - [The Avengers](https://www.imdb.com/title/tt0848228/)
-- 
+- **Reasons why I enjoyed Avengers**
 - 
 # 7.  
 - 
-- **Reasons why I enjoyed Avengers**
+- 
 - 
 # 6.  
 - 
