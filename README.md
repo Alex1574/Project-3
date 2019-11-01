@@ -28,9 +28,12 @@ This is a description of my all time favorite movies that I have seen, while als
 3. This is the first movie that Tarnetino directed thart had violence that was actually shown on the screen because the importance of the violence to the progression of the plot of the story
 >  "To get even? Even Steven? I have to kill you..."
 # 2.Avatar
-- 
-- 
-- 
+- [Avatar](https://www.imdb.com/title/tt0499549/) is the story of humans finding a land that is home to an alien race. This land has a metal substance present in the world that the humans wanted. This led to warbetween the humans and the alien and one of the humans uses a clone of an alien joined the side of the alien to fight for their freedom.
+- **Reasons I like Avatar**
+1. It tackled real world topics in a effective way that did not seem to ridicule the people of the world, som much as to inform.
+2. The use of CGI was so effective that the characters present in movie who were made of the images seemed to be other worldly.
+3. The actors present in the movie conveyed the emotions of many that would be expected so much so that it did not appear as if they were acting.
+> All I ever wanted was a single thing worth fighting for.
 # 1. The Goonies 
 - [The Goonies](https://www.imdb.com/title/tt0089218/)
 - **Reasons why I like the Goonies**
