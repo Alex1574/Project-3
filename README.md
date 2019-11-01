@@ -1,4 +1,4 @@
-# My Favorite 10 Movies 
+# My Favorite 5 Movies 
 
 # About
 This is a description of my all time favorite movies that I have seen, while also giving some information about those said movies. This all will culminate in my overall thoughts on the said movies. 
@@ -13,38 +13,20 @@ This is a description of my all time favorite movies that I have seen, while als
 2. The adventure of an over protective parental figure is an aspect of the movie that many people can connect to.
 3. The fears that Marlin may feel and having to overcome that feelin
 -  > "Fish are friends, not food"
-# 9.  
-- 
-- 
-- 
 # 8. Avengers
 - [The Avengers](https://www.imdb.com/title/tt0848228/) is the movie that started an entire cinematic universe that is world reknowned today. The movie is about key members from Marvel comics working together to protect the world from an invading force of aliens led by the Norse God Loki. The Avengers consisted of Thor, the God of Thunder, Ironman, Captain America, The Hulk, Blackwidow, and Hawkeye.
 - **Reasons why I enjoyed Avengers**
 1. This movie was the start of the marvel cinematic universe because it showed that the combination of comic book characters could result in a movie that 
-2. 
-3. 
-- 
-# 7.  
-- 
-- 
-- 
-# 6.  
-- 
-- 
-- 
+2. This movie helped to break the trend of comic book movies failing by having well-knowned actors play the characters.
+3.
+> "Puny God"
 # 5. Kill Bill: Vol. 1
-- [*Kill Bill: Vol. 1*](https://www.imdb.com/title/tt0266697/)
+- [*Kill Bill: Vol. 1*](https://www.imdb.com/title/tt0266697/) is the story of a unknown pregnant woman who was nearly killed during her wedding. She was trying to escape a group of assassins led by the man Bill, but Bill and the group were enraged that she left and killed her as a result. This entire movie is spent with her finding and killing everyone who was involved in trying to kill her and killed  her fiance after she woke up from a coma with no child.
 - **Reasons why I enjoyed Kill Bill Vol. 1**
-- 
-# 4. 
-- 
-- 
-- 
-# 3. 
-- 
-- 
-- 
-# 2.  
+1. Through the use of random sound, whenever the wife says her name some sound plays so that the audience never figures out her name.
+2. 
+> 
+# 2.Avatar
 - 
 - 
 - 
