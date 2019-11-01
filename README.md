@@ -33,7 +33,7 @@ This is a description of my all time favorite movies that I have seen, while als
 1. It tackled real world topics in a effective way that did not seem to ridicule the people of the world, som much as to inform.
 2. The use of CGI was so effective that the characters present in movie who were made of the images seemed to be other worldly.
 3. The actors present in the movie conveyed the emotions of many that would be expected so much so that it did not appear as if they were acting.
-> All I ever wanted was a single thing worth fighting for.
+> "No. No. To get even? Even-Steven? I would have to kill you, go up to Nikki's room, kill her, then wait for your husband, the good Doctor Bell, to come home and kill him. That would be even, Verntia. That'd be about square."
 # 1. The Goonies 
 ![Image of the Goonies Banner](./Goonies.jpg)
 - [The Goonies](https://www.imdb.com/title/tt0089218/) is a movie about a group of misfit kids who are about to lose tyheir homes due to forclosure if they do not pay a certain amount of money by the end of the day. The kids find a treasure map that leads to the ship of the famous pirate, One Eyed Willy. After searching around they run into a group of criminals looking for the treasure too and the drama of the movie starts. This results in the group who call themselves the Goonies to run into many weird and unquie situations.
