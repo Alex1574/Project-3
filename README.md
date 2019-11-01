@@ -25,8 +25,8 @@ This is a description of my all time favorite movies that I have seen, while als
 - **Reasons why I enjoyed Kill Bill Vol. 1**
 1. Through the use of random sound, whenever the wife says her name some sound plays so that the audience never figures out her name.
 2. The use of many cinematic tools that Tarentino movies commonly use, show the importance of every scene because there is a deeper meaning behind even the scenes that many view as pointless.
-3.  
-> 
+3. This is the first movie that Tarnetino directed thart had violence that was actually shown on the screen because the importance of the violence to the progression of the plot of the story
+>  "To get even? Even Steven? I have to kill you..."
 # 2.Avatar
 - 
 - 
@@ -34,4 +34,5 @@ This is a description of my all time favorite movies that I have seen, while als
 # 1. The Goonies
 - [The Goonies](https://www.imdb.com/title/tt0089218/)
 - **Reasons why I like the Goonies**
-> "Hey you guys!!!!"
+> "Hey you guys!!!!" and "I'm gonna hit you so hard that when you wake up your clothes will be out of style.
+
