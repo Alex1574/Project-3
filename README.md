@@ -34,5 +34,8 @@ This is a description of my all time favorite movies that I have seen, while als
 # 1. The Goonies 
 - [The Goonies](https://www.imdb.com/title/tt0089218/)
 - **Reasons why I like the Goonies**
+1. The main characters of the movie are a froup of outcast kids that are not that popular or special, but by working together accomplish things that even the smartest of adults couldn't.
+2. Uses a mix of comedy and drama to create scences that are both suppensful and full of comedy.
+3. The antaginist of the movies are not the most inteligent of people, but they are still an imposing threat in the world to the children.
 > "Hey you guys!!!!" and "I'm gonna hit you so hard that when you wake up your clothes will be out of style.
 
