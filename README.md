@@ -36,7 +36,7 @@ This is a description of my all time favorite movies that I have seen, while als
 > All I ever wanted was a single thing worth fighting for.
 # 1. The Goonies 
 ![Image of the Goonies Banner](./Goonies.jpg)
-- [The Goonies](https://www.imdb.com/title/tt0089218/)
+- [The Goonies](https://www.imdb.com/title/tt0089218/) is a movie about a group of misfit kids who are about to lose tyheir homes due to forclosure if they do not pay a certain amount of money by the end of the day. The kids find a treasure map that leads to the ship of the famous pirate, One Eyed Willy. After searching around they run into a group of criminals looking for the treasure too and the drama of the movie starts. This results in the group who call themselves the Goonies to run into many weird and unquie situations.
 - **Reasons why I like the Goonies**
 1. The main characters of the movie are a froup of outcast kids that are not that popular or special, but by working together accomplish things that even the smartest of adults couldn't.
 2. Uses a mix of comedy and drama to create scences that are both suppensful and full of comedy.
