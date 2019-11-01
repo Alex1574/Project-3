@@ -35,6 +35,7 @@ This is a description of my all time favorite movies that I have seen, while als
 3. The actors present in the movie conveyed the emotions of many that would be expected so much so that it did not appear as if they were acting.
 > All I ever wanted was a single thing worth fighting for.
 # 1. The Goonies 
+![Image of the Goonies Banner](./Goonies.jpg)
 - [The Goonies](https://www.imdb.com/title/tt0089218/)
 - **Reasons why I like the Goonies**
 1. The main characters of the movie are a froup of outcast kids that are not that popular or special, but by working together accomplish things that even the smartest of adults couldn't.
